@@ -1,11 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-// on server
-// const React = require('react');
 
 function App() {
-  console.log('HEY YO!!!');
   return (
     <div className="App">
       <header className="App-header">
